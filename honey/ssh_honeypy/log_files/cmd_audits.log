@@ -1,0 +1,11 @@
+
+Client 127.0.0.1 attempted connection with username: anyusername, password: 
+Command b'ls'executed by 127.0.0.1
+Command b'cd ..\\\x7f'executed by 127.0.0.1
+Command b'ls'executed by 127.0.0.1
+Command b'cd j\t\x7f\x7f\x7f\x7f\x7f\x7f\x7f'executed by 127.0.0.1
+Command b'ls'executed by 127.0.0.1
+Command b'ju\t\x7f\x7f\x7f\x7f'executed by 127.0.0.1
+Command b'cd ..'executed by 127.0.0.1
+Command b'ls'executed by 127.0.0.1
+Command b'chmos\x7fd'executed by 127.0.0.1
